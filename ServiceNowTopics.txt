@@ -1,0 +1,38 @@
+1.ServiceNow fundamentals
+Navigation
+Applications/modules
+Lists and forms
+Users, groups, roles
+Tables and fields
+Records
+
+2.ServiceNow Administration
+User/group/role administration
+ACLs
+Notifications
+Business Rules
+Client Scripts
+UI Policies
+Data imports
+Update Sets
+Reports and dashboards
+Workflows/Flow Designer
+
+3.ITSM
+Incident
+Problem
+Change
+Request
+Knowledge
+Service Catalog
+
+4.Then scripting
+Basic JavaScript
+GlideRecord
+Client/server-side concepts
+
+5.Then move toward developer/implementation skills
+Flow Designer
+REST APIs
+Integrations
+Advanced scripting
